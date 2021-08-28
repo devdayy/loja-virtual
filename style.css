@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+.topo{
+    background-color: #ffffff;
+    text-align: center;
+    letter-spacing: 1px;
+    padding: 20px;
+    font-family: "Poppins";
+    font-size: small;
+    color: rgb(39, 37, 37);
+}
+
+.logo{
+    width: 100px;
+    position: absolute;
+    left: 100px;
+    top: 15px;
+}
+
+.pesquisa{
+    top: 30px;
+    padding: 10px;
+    width: 300px;
+    height: 13px;
+    font-family: "Poppins";
+    text-align: center;
+}
+
+.racao1{
+    border: 3px groove #a8c0ff;
+    width: 200px;
+    height: 300px;
+    position: absolute;
+    left: 300px;
+    top: 250px;
+    text-align: center;
+    font-family: "Poppins";
+    color: rgb(39, 37, 37);
+}
+
+.racao1:hover { border:  1px rgb(130, 5, 247); font-size: 50px;}
+.racao2:hover { border: solid 1px rgb(130, 5, 247); }
+.racao3:hover { border: solid 1px rgb(130, 5, 247); }
+.racao4:hover { border: solid 1px rgb(130, 5, 247); }
+.racao5:hover { border: solid 1px rgb(130, 5, 247); }
+
+.button{
+    border-radius: 5px;
+    width: 200px;
+    height: 25px;
+    background: linear-gradient(#7F7FD5, #86A8E7, #91EAE4);
+    font-family: "Poppins";
+    font-weight: bold;
+    letter-spacing: 1px;
+    color: rgb(29, 28, 28);
+    cursor: pointer;
+}
+
+.racao2{
+    border: 3px groove #a8c0ff;
+    width: 200px;
+    height: 300px;
+    position: absolute;
+    left: 600px;
+    top: 250px;
+    text-align: center;
+    font-family: "Poppins";
+    color: rgb(39, 37, 37);
+
+}
+
+.racao3{
+    border: 3px groove #a8c0ff;
+    width: 200px;
+    height: 300px;
+    position: absolute;
+    left: 900px;
+    top: 250px;
+    text-align: center;
+    font-family: "Poppins";
+    color: rgb(39, 37, 37);
+
+}
+
+.racao4{
+    border: 3px groove #a8c0ff;
+    width: 200px;
+    height: 300px;
+    position: absolute;
+    left: 300px;
+    top: 800px;
+    text-align: center;
+    font-family: "Poppins";
+    color: rgb(39, 37, 37);
+
+}
+
+.racao5{
+    border: 3px groove #a8c0ff;
+    width: 200px;
+    height: 300px;
+    position: absolute;
+    left: 600px;
+    top: 800px;
+    text-align: center;
+    font-family: "Poppins";
+    color: rgb(39, 37, 37);
+
+}
+
+.foto{
+    position: absolute;
+    width: 300px;
+    left: 1000px;
+    top: 950px;
+
+}
